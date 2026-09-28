@@ -1,8 +1,3 @@
----
-name: ux-research
-description: Plan, conduct, and analyze UX research using proven methodologies. Use when planning user research, writing interview scripts, creating test plans, recruiting participants, analyzing qualitative data, or synthesizing findings into actionable insights. Covers generative, evaluative, and continuous discovery research with specific frameworks, scoring rubrics, and templates.
----
-
 # UX Research
 
 Plan, conduct, and analyze user research that produces actionable insights for product design. This skill provides frameworks, methods, and practical guidance for every stage of the research process — from defining the right question to presenting findings that drive decisions.

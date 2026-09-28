@@ -1,8 +1,3 @@
----
-name: design-ops
-description: Run design sprints, manage handoff, establish team rituals, documentation standards, and design QA processes. Covers the operational side of design — how teams organize work, collaborate with engineering, and ship quality.
----
-
 # Design Ops & Handoff
 
 Operational processes that make design teams effective — sprints, handoff, rituals, documentation, and quality assurance.

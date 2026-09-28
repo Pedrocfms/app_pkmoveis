@@ -1,8 +1,3 @@
----
-name: design-elevation
-description: Comprehensive design elevation system that automatically transforms functional visual outputs into polished, professional designs. Use when creating ANY visual output including presentations (pptx), spreadsheets (xlsx), dashboards, reports, HTML artifacts, PDFs, web pages, or data visualizations. Applies systematic design thinking grounded in Tailwind CSS as the canonical design token system. Structures decisions through functional patterns (what users interact with) and perceptual patterns (how the design feels), following Alla Kholmatova's design systems framework. Triggers on ALL requests for visual content creation, ensuring outputs look hand-crafted rather than template-based.
----
-
 # Design Elevation System
 
 This skill transforms functional visual outputs into polished, professional designs by applying systematic design thinking and refinement protocols.
